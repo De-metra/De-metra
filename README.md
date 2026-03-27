@@ -1,16 +1,26 @@
-## Hi there 👋
-
-<!--
-**De-metra/De-metra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+++-----------..---..   ...---++--+------++         daria@dubrovskaya 
+++----------+........      .----++------++         -----------------
++++----------..         ..    .--+--+---++         OS: Windows 11, Android 14, Linux
++++------++-..      ...---..   .-+-++---++         Uptime: 19 years, 2 months, 15 days
++++----+---.       .+#######-   -+-++---++         Host: College of RANEPA (РАНХиГС)
++++----+--.       -+########+.  -+-++---++         Kernel: Junior Backend Developer
+++++--++-..      +##########+.  -+-++--+++         IDE: VS Code, VS
+++++-----.      ----.-++##+++.  -+-++--+++         
+++++-----. ...-+-...-++#+-.--. -++-++--+++         Languages.Programming: .... Python, C#, SQL
++++++----. .-+#####+####+-....-++++++--+++         Languages.Frameworks: ..... FastAPI, SQLAlchemy, ASP.NET
++++++----.. -++#########+##++++++++++--+++         Languages.Real: ........... Russian, English
++++++----..  .+######++++##++++++++++--+++
+++++++----.   +#######+-+#+-++++++++---+++         - Contact -----------------------------------------
+++++++----.    +###+---.++..-+++++++---+++         Email.Personal: ........... dariadubrovskay@mail.ru
+++++++----.    ..+#####+..-..+++++++---+++         Telegram: ................. @onnoneon
+++++++---.    .--------..          .---+++         LinkedIn: ................. daria-dubrovskaya
++++++++-.   ..-++#++---               -+++
++++++++-..  ..-+###+-                  .++         - GitHub Stats ------------------------------------
+-+++-.     ..                           .-         Current focus: ............ Diploma Project (API)
+-++-       .                                       Target: ................... Internship/employment
+-++.        ..                            
+--.       ...                             
+--          .    .       .                
+--         ...  ........ ..               
+```
