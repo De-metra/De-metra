@@ -2,7 +2,7 @@
 ++-----------..---..   ...---++--+------++         daria@dubrovskaya 
 ++----------+........      .----++------++         -----------------
 +++----------..         ..    .--+--+---++         OS: Windows 11, Android 14, Linux
-+++------++-..      ...---..   .-+-++---++         Uptime: 19 years, 9 months, 12 days
++++------++-..      ...---..   .-+-++---++         Uptime: 20 years, 0 months, 5 days
 +++----+---.       .+#######-   -+-++---++         Host: College of RANEPA (РАНХиГС)
 +++----+--.       -+########+.  -+-++---++         Kernel: Junior Backend Developer
 ++++--++-..      +##########+.  -+-++--+++         IDE: VS Code, VS
@@ -17,8 +17,8 @@
 ++++++---.    .--------..          .---+++         LinkedIn: ................. daria-dubrovskaya
 +++++++-.   ..-++#++---               -+++
 +++++++-..  ..-+###+-                  .++         - GitHub Stats ------------------------------------
--+++-.     ..                           .-         Current focus: ............ Diploma Project (API)
--++-       .                                       Target: ................... Internship/employment
+-+++-.     ..                           .-         Current focus: ............ introspecting / navel-gazing / soul-searching
+-++-       .                                       Target: ................... self-improvement
 -++.        ..                            
 --.       ...                             
 --          .    .       .                
